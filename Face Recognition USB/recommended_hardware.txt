@@ -11,4 +11,4 @@ I decided to adjust it for only USB support, which fixed the colors and also imp
 
 I obtained nearly 25 FPS on the RPI5 with a logitech C920 USB camera in ideal light conditions. I have not tested it on a RPI3 yet but I'm sure its functional and does the job.
 
-Majorty of the code is original and only snippets have been adjusted with the help of OpenAI o3-mini-high GPT model. The original authors are referenced in the main Face Recognition folder in licenses
+Majorty of the code is original and only snippets have been adjusted with the help of OpenAI o3-mini-high GPT model. The original authors are referenced in the main Face Recognition folder in licenses.
