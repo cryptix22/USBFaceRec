@@ -1,6 +1,6 @@
 #This is a modified version of the original script. Authors licensing is included in the Face Recognition folder.
-#Uses OpenCV to stream a USB camera, which is then piped into the face recogontion script. This modded version has no support for picamera2
-#I reccomend for only 1 USB camera to be plugged in. Thus, setting it to the default device: 0.
+#Uses OpenCV to stream a USB camera, which is then piped into the face recogonition script. This modded version has no support for picamera2
+#I reccomend for only 1 USB camera to be plugged in. Thus, setting it to the default device: 0. You can change the device ID on line 27 if needs be.
 
 import cv2
 import os
